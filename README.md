@@ -41,17 +41,13 @@
  <a href="https://www.hackerrank.com/nehapandey13" target="_blank"><img align="center" src="https://github.com/nehapandey13/nehapandey13/blob/main/icons/hcr.png" alt="nehapandey13" height="60" width="60" /></a> -->
  
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-nehapandey13-green?&style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/nehapandey13/practice)
-
 [![HackerRank](https://img.shields.io/badge/HackerRank-nehapandey13-darkgreen?&style=flat-square&logo=hackerrank&logoColor=dark-green)](https://www.hackerrank.com/nehapandey13/)
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-nehapandey13-purple?&style=flat-square&logo=leetcode&logoColor=royal-blue)](https://leetcode.com/nehapandey13/)
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-nehapandey13-yellow?&style=flat-square&logo=hackerearth&logoColor=yellow)](https://www.hackerearth.com/@nehapandey13)
-
 
 ## Connect With Me 👇
 <p align="center">
 <a href="https://linkedin.com/in/nehapandey13" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nehapandey13" height="30" width="30" /></a>
-
 <a href="https://www.youtube.com/channel/UCFQOSjZt3gcsrKSok7klqsQ?view_as=subscriber" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="nehapandey13" height="30" width="30" /></a>
 </p>
 
